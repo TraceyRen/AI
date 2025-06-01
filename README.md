@@ -16,5 +16,5 @@ Implement probabilistic inference in a hidden Markov model tracks the movement o
 ## Machine Learning
 Implement neural network models, and apply the models to several tasks including digit classification and language identification.
 
-# Credits
+### Credits
 The projects were developed by John DeNero, Dan Klein, Pieter Abbeel, and many others. http://ai.berkeley.edu
